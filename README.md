@@ -1,27 +1,23 @@
-<div align="center">
-<h1 align="center">Hola, soy Gabriel👋</h1>
-</div>
+# Hola, soy Gabriel 👋
 
+Estudiante de Ingeniería en Informática y Sistemas (3er año) basado en Guatemala 🇬🇹.
+Me apasiona construir cosas con código y seguir aprendiendo cada día.
 
-### ⚙️ &nbsp;GitHub Analytics
+## 🛠️ Tecnologías
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 📊 Stats
 
 <p align="center">
-<a href="https://github.com/GabrielToyom0">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielToyom0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielToyom0&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielToyom0&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielToyom0&layout=compact&langs_count=6&theme=algolia"/>
 </p>
-<!--
-**GabrielToyom0/GabrielToyom0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📬 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-toyom-56761439a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gabrieltoyom@gmail.com)
